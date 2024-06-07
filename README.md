@@ -14,7 +14,7 @@ The **Aviator Predictor** app is designed to offer number predictions with an ex
 
 ## How to Download and Use the Aviator Predictor App
 Follow these simple steps to download and use the **Aviator Predictor** app:
-1. Visit our [official website](#) or your preferred app store (available on iOS and Android).
+1. Visit our [official website](https://aviator-predictor.store/download-app) or your preferred app store (available on iOS and Android).
 2. Search for "Aviator Predictor" in the search bar.
 3. Click "Download" and follow the installation instructions.
 4. Complete the registration on the app and with partner casinos to start receiving accurate predictions.
